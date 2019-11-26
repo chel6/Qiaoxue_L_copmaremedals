@@ -7,9 +7,10 @@
 
 - This page will use charts and minimize words to visualize the thousands pices of data.
 1. Which sport has Canada won the most Medals. 
-2. Who won more medals in this sport? Men or Women.
-3. Does there has some changes about the counts through years?
-4. You will find answers at this page.
+2. The proportion of gold/ silver and bronze medals
+3. Who won more medals in this sport? Men or Women.
+4. Does there has some changes about the counts through years?
+- You will find answers at this page.
 
 ## Author
 Qiaoxue Luan
