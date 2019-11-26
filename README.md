@@ -1,11 +1,11 @@
 # Medals Compare - Python
 ===========================
 
-## Which sport has Canada won the most Medals. Who won more medals in this sport? Men or Women. Does there has some changes about the counts through years? Through this data analysis, we will figure out the answers to those questions.
+## This page is built to analyze the Medals of Winter Olympics. 
 
 ## Description
 
-- This page is use charts and minimize words to visualize the thousands pices of data.
+- This page will use charts and minimize words to visualize the thousands pices of data.
 - Which sport has Canada won the most Medals. 
   Who won more medals in this sport? Men or Women.
   Does there has some changes about the counts through years?
